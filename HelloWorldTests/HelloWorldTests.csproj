@@ -16,5 +16,10 @@
   <ItemGroup>
     <ProjectReference Include="..\HelloWorldCore\HelloWorldCore.csproj" />
   </ItemGroup>
-
+echo "jjdejej"
+  sh "jlddmk"
+  pipeline{
+  stage{
+  }}}}
+  6yuiop[]poiujhgcfxqwsrdjnm
 </Project>
