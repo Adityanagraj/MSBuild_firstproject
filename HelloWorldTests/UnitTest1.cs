@@ -4,7 +4,7 @@ using System;
 
 namespace HelloWorldTests
 {
-    [TestClass]
+    [TestClass]{testclass1]
     public class UnitTest1
     {
         private const string Expected = "Hello World!";
@@ -22,3 +22,4 @@ namespace HelloWorldTests
         }
     }
 }
+}}}}
